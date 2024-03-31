@@ -23,7 +23,7 @@
   2. Go to Jiangsu,
   3. Go to Nanjing,
   4. Go to Gulou,
-  5. Go to Gouerxiang commnunty,
+  5. Go to Gouerxiang community,
   6. Go to 38th building,
   7. Go to 4th floor,
   8. Go to 401 room.
